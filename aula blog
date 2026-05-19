@@ -25,4 +25,31 @@
             </ul>
         </nav>
      </header>
-     
+
+     <!-- conteudo dinâmico -->
+      <main id="conteudo">
+        <!-- aqui o javascript vai inserir as paginas-->
+      </main>
+
+      <!-- sidebar -->
+       <aside>
+           <h2>Categoria</h2>
+
+           <ul class="lista">
+                <li>Tecnologica</li>
+                <li>jogos</li>
+                <li>Programação</li>
+                <li>HTML</li>
+                <li>CSS</li>
+           </ul>
+       </aside>
+
+       <!-- FOOTER -->
+       <footer>
+           <p>© 2026 Bloggy - todos direitos reservados</p>
+       </footer> 
+
+       <!-- JAVASCRIPT -->
+        <script src="js/script.js"></script>
+    </body>
+    </html>  
